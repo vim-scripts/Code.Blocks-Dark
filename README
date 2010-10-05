@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3266
+
+Inspired by the original Code::Blocks theme in a dark manner.
+
+Screenshot:
+https://sites.google.com/site/svlasovs/home/codeblocks_dark.png
+
+Please use along with cSyntaxAfter plugin (vimscript #3265) to highlight c operators.
