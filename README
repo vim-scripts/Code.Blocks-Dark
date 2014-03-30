@@ -2,6 +2,6 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=3266
 
 Inspired by the original Code::Blocks theme in a dark manner.
 
-Screenshot http://www.vlasov.me/cSyntaxAfter-with.png
+Screenshot at https://github.com/sergey-vlasov/codeblocks-dark.vim
 
-Please use along with cSyntaxAfter plugin (vimscript #3265) to highlight C operators.
+Also try cSyntaxAfter plugin (vimscript #3265) to highlight C operators.
